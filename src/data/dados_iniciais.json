@@ -1,46 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "FLA TV",
+      "link": "https://www.flamengo.com.br/flatv",
+      "cor": "#FF0000",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Vídeos da Fla TV",
+        "url": "https://www.flamengo.com.br/flatv"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "2019: A temporada em que vencemos juntos!",
+          "url": "https://www.youtube.com/watch?v=371FOyquzno&t"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Treino do Flamengo - 27/07/2020",
+          "url": "https://www.youtube.com/watch?v=gvmTT8tMvPs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Abertura da Loja Nação Rubro-Negra na Rocinha",
+          "url": "https://www.youtube.com/watch?v=IQfBCNR7b20"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Sem Filtro: Flamengo",
+          "url": "https://www.youtube.com/watch?v=RJLDKHoTq_k"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Resenha em Vermelho e Preto - Raul, Peu, Carpegiani e Lico",
+          "url": "https://www.youtube.com/watch?v=brL8e2_YnwY"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Jogo Rápido com Pedro",
+          "url": "https://www.youtube.com/watch?v=zvCq6t3eiuc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Happy Hour do Nação com Adílio",
+          "url": "https://www.youtube.com/watch?v=_fChr_1ZYrA"
+        }
       ]
     },
     {
