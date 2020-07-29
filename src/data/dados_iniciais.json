@@ -3,9 +3,9 @@
     {
       "titulo": "FLA TV",
       "link": "https://www.flamengo.com.br/flatv",
-      "cor": "#FF0000",
+      "cor": "red",
       "link_extra": {
-        "text": "Vídeos da Fla TV",
+        "text": "Canal oficial do Clube de Regatas do Flamengo",
         "url": "https://www.flamengo.com.br/flatv"
       },
       "videos": [
@@ -40,142 +40,121 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Zico 10",
+      "cor": "#DAA520",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "O canal do Galinho",
+        "url": "https://www.youtube.com/c/CanalZico10/featured"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Papo 10 com o ZICO!! (Quem será o novo técnico do Flamengo?)",
+          "url": "https://www.youtube.com/watch?v=Om01YozGRWk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Opinião do Zico sobre saída de Jorge Jesus - Papo 10 com Apóstolo Arnaldo",
+          "url": "https://www.youtube.com/watch?v=r4KMuu-WQz4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Zico entrevista Neto - Everton Ribeiro hoje é o melhor jogador do futebol brasileiro",
+          "url": "https://www.youtube.com/watch?v=NZVsReqp7I8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "RONALDO E ZICO FAZEM TUTORIAL DE FINALIZAÇÃO E VEGETA DESAFIA O FENÔMENO| Canal Zico 10",
+          "url": "https://www.youtube.com/watch?v=84NrTeILg64"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "NA GAVETA #1 - PETKOVIC - Desafio de Falta | Canal Zico 10",
+          "url": "https://www.youtube.com/watch?v=5wKBBjI87xM"
+        },
+        {
+          "titulo": "Rafinha sobre Jorge Jesus: A intensidade dele aqui é maior que a do Guardiola lá | Canal Zico 10",
+          "url": "https://www.youtube.com/watch?v=xqeayFEQF8M"
+        }, 
+        {
+          "titulo": "ZICO REAGE AO MESSI - React #5 | Canal Zico 10",
+          "url": "https://www.youtube.com/watch?v=40KLllamsCM"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Paparazzo Rubro-Negro",
+      "cor": "blue",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Canal do Paparazzo Rubro-Negro",
+        "url": "https://www.youtube.com/c/PaparazzoRubroNegro/featured"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "TORRENT ANUNCIADO? JORNAL DIZ ESTAR PERTO! GLOBO RECUA! LATERAIS VOLTANDO! 11MEIA #52!",
+          "url": "https://www.youtube.com/watch?v=c9O2cEwQfXM"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "CONTRATO SENDO ELABORADO E DOMÉNEC TORRENT SERÁ ANUNCIADO PELO FLAMENGO! SONHO DE MENINO REALIZADO!",
+          "url": "https://www.youtube.com/watch?v=X2cq4BRneu8"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "A melhor reação na Final da Copa Libertadores dentro do Monumental: Flamengo 2x1 River Plate!",
+          "url": "https://www.youtube.com/watch?v=QOnBKXxK_Cw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Mengão Campeão da Recopa 2020! Todos os Gols Filmados da Torcida do Flamengo e Minutos finais!",
+          "url": "https://www.youtube.com/watch?v=GMZmxDmz56U"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Fla Zoeiro",
+      "cor": "maroon",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Canal FLAZOEIRO",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "SURPRESA GERAL! FLAMENGO X FLU AO VIVO DIRETO DO MARACANÃ",
+          "url": "https://www.youtube.com/watch?v=ZrzRRnvdiQ8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "CONFUSÃO E SACANAGEM NO MARACANÃ! VITÓRIA DO MENGÃO NA FINAL! FLAMENGO 2 x 1 FLUMINENSE FINAL JOGO 1",
+          "url": "https://www.youtube.com/watch?v=sAT-Wz4Kqws"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "NOVO TÉCNICO OFERECIDO AO FLAMENGO! JORGE JESUS SE DEU MAL NO BENFICA? 120 MILHÕES POR ARÃO? E+",
+          "url": "https://www.youtube.com/watch?v=zIM1A7El8gs"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "CARLOS CARVALHAL DIZ NÃO AO FLAMENGO! REVIRAVOLTA EM NEGOCIAÇÃO NO MENGÃO! FAKE NEWS COM DIEGO ALVES",
+          "url": "https://www.youtube.com/watch?v=sFWwvRjQDLM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "PLANTÃO URGENTE! DOMÈNEC TORRENT PREPARA CONTRATO PARA SER NOVO TÉCNICO DO FLAMENGO! AFIRMA AGENTE",
+          "url": "https://www.youtube.com/watch?v=QarZQdIimds"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Desimpedidos",
+      "cor": "#C71585",
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Desafio com GABIGOL e EVERTON RIBEIRO",
+          "url": "https://www.youtube.com/watch?v=Xv18q_mCSgE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Julio Cesar fala sobre desmaio histórico na final da Libertadores!",
+          "url": "https://www.youtube.com/watch?v=1nt5O-m2EN0"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "O desabafo de Fred sobre Palmeiras e Flamengo",
+          "url": "https://www.youtube.com/watch?v=bhsN2I_udTM"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Reagindo aos desafios da audiência - Feat Reinaldo e Mc Rebecca",
+          "url": "https://www.youtube.com/watch?v=u2OLVg8-Gpw"
         }
       ]
     }
+    
   ]
 }
