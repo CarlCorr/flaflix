@@ -28,7 +28,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL_Top = 'http://localhost:8080/categorias';
+    const URL_Top = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://flaflix.herokuapp.com/categorias';
     fetch(URL_Top)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
