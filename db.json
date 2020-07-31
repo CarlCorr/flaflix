@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Fla TV",
+            "descrição": "Vídeos da Fla TV",
+            "cor": "#FF0000"
+        },
+        {
+            "id": 2,
+            "nome": "Zico 10",
+            "descrição": "O canal do Galinho",
+            "cor": "#FFaa00"
+        }
+    ]
+}
